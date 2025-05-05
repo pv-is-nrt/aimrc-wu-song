@@ -319,3 +319,202 @@ Publication Year: 1993
 Publication Name: HPB Surgery
 Authors: 
 ================================================================================
+Title: UEG Week 2013 Poster Presentations
+Abstract: N/A
+Publication Year: 2013
+Publication Name: United European Gastroenterology Journal
+Authors: 
+================================================================================
+Title: UEG Week 2015 Oral Presentations
+Abstract: N/A
+Publication Year: 2015
+Publication Name: United European Gastroenterology Journal
+Authors: 
+================================================================================
+Title: Context-Specific Determinants of the Immunosuppressive Tumor Microenvironment in Pancreatic Cancer
+Abstract: Immunotherapies have shown benefits across a range of human cancers, but not pancreatic ductal adenocarcinoma (PDAC). Recent evidence suggests that the immunosuppressive tumor microenvironment (TME) constitutes an important roadblock to their efficacy. The landscape of the TME differs substantially across PDAC subtypes, indicating context-specific principles of immunosuppression. In this review, we discuss how PDAC cells, the local TME, and systemic host and environmental factors drive immunosuppression in context. We argue that unraveling the mechanistic drivers of the context-specific modes of immunosuppression will open new possibilities to target PDAC more efficiently by using multimodal (immuno)therapeutic interventions. Immunosuppression is an almost universal hallmark of pancreatic cancer, although this tumor entity is highly heterogeneous across its different subtypes and phenotypes. Here, we provide evidence that the diverse TME of pancreatic cancer is a central executor of various different context-dependent modes of immunosuppression, and discuss key challenges and novel opportunities to uncover, functionalize, and target the central drivers and functional nodes of immunosuppression for therapeutic exploitation.
+Publication Year: 2023
+Publication Name: Cancer Discovery
+Authors: Falcomatà, Chiara, Bärthel, Stefanie, Schneider, Günter, Rad, Roland, Schmidt-Supprian, Marc, Saur, Dieter
+================================================================================
+Title: Multi-omics-driven discovery of invasive patterns and treatment strategies in CA19-9 positive intrahepatic cholangiocarcinoma
+Abstract: Intrahepatic cholangiocarcinoma (ICC) is a malignant tumor with a poor prognosis, predominantly CA19-9 positive. High CA19-9 levels correlate with increased aggressiveness and worse outcomes. This study employs multi-omics analysis to reveal molecular features and identify therapeutic targets of CA19-9 positive ICC, aiming to support individualized treatment. Data from seven clinical cohorts, two whole-exome sequencing cohorts, six RNA sequencing/microarray cohorts, one proteomic cohort, 20 single-cell RNA sequencing samples, and one spatial transcriptome sample were analyzed. Key findings were validated on tissue microarrays from 52 ICC samples. CA19-9 positive ICC exhibited poorer OS (median 24.1 v.s. 51.5 months) and RFS (median 11.7 v.s. 28.2 months) compared to negative group (all P < 0.05). Genomic analysis revealed a higher KRAS mutation frequency in the positive group and a greater prevalence of IDH1/2 mutations in the negative group (all P < 0.05). Transcriptomic analysis indicated upregulated glycolysis pathways in CA19-9 positive ICC. Single-cell analysis identified specific glycolysis-related cell subclusters associated with poor prognosis, including Epi_SLC2A1, CAF_VEGFA, and Mph_SPP1. Higher hypoxia in the CA19-9 positive group led to metabolic reprogramming and promoted these cells’ formation. These cells formed interactive communities promoting epithelial-mesenchymal transition (EMT) and angiogenesis. Drug sensitivity analysis identified six potential therapeutic drugs. This study systematically elucidated the clinical, genomic, transcriptomic, and immune features of CA19-9 positive ICC. It reveals glycolysis-associated cellular communities and their cancer-promoting mechanisms, enhancing our understanding of ICC and laying the groundwork for individualized therapeutic strategies. 
+ The online version contains supplementary material available at 10.1186/s12967-024-05854-9.
+Publication Year: 2024
+Publication Name: Journal of Translational Medicine
+Authors: Ma, Delin, Wei, Pengcheng, Liu, Hengkang, Hao, Jialing, Chen, Zhuomiaoyu, Chu, Yingming, Li, Zuyin, Shi, Wenzai, Yuan, Zhigao, Cheng, Qian, Gao, Jie, Zhu, Jiye, Li, Zhao
+================================================================================
+Title: UEG Week 2019 Oral Presentations
+Abstract: N/A
+Publication Year: 2019
+Publication Name: United European Gastroenterology Journal
+Authors: 
+================================================================================
+Title: CAR T cell therapy and the tumor microenvironment: Current challenges and opportunities
+Abstract: Chimeric antigen receptor (CAR) T cell therapy has demonstrated remarkable outcomes in individuals with hematological malignancies, but its success has been hindered by barriers intrinsic to the tumor microenvironment (TME), particularly for solid tumors, where it has yet to make its mark. In this article, we provide an updated review and future perspectives on features of the TME that represent barriers to CART cell therapy efficacy, including competition for metabolic fuels, physical barriers to infiltration, and immunosuppressive factors. We then discuss novel and promising strategies to overcome these obstacles that are in preclinical development or under clinical investigation.
+Publication Year: 2022
+Publication Name: Molecular Therapy Oncolytics
+Authors: Kankeu Fonkoua, Lionel A., Sirpilla, Olivia, Sakemura, Reona, Siegler, Elizabeth L., Kenderian, Saad S.
+================================================================================
+Title: Abstracts
+Abstract: N/A
+Publication Year: 2006
+Publication Name: HPB : The Official Journal of the International Hepato Pancreato Biliary Association
+Authors: 
+================================================================================
+Title: None
+Abstract: N/A
+Publication Year: 2022
+Publication Name: Virchows Archiv
+Authors: 
+================================================================================
+Title: Fibroblast inhibition by tocilizumab enabled gemcitabine/nab‐paclitaxel rechallenge for pancreatic cancer
+Abstract: Interleukin‐6 (IL‐6)/signal transducer and activator of transcription 3 (STAT3) pathway inhibition may overcome chemoresistance of metastatic pancreatic cancer (MPC). We sought to determine the safety and recommended dose of tocilizumab (TCZ), an IL‐6 receptor monoclonal antibody, and biological correlates of tumor shrinkage in patients with gemcitabine (GEM)/nanoparticle albumin‐bound paclitaxel (nab‐PTX)‐refractory MPC. This phase 1 study enrolled 10 patients with MPC who had progressed after GEM/nab‐PTX. Patients initially received TCZ 8 mg/kg on Day 1 and nab‐PTX 100 mg/m
+Publication Year: 2023
+Publication Name: Cancer Science
+Authors: Mitsunaga, Shuichi, Ikeda, Masafumi, Imaoka, Hiroshi, Sasaki, Mitsuhito, Watanabe, Kazuo, Sato, Akihiro, Aoki, Kazunori, Ochiai, Atsushi, Makikawa, Mayu, Nishidate, Masanobu, Yamaguchi, Kyoko, Terao, Kimio, Sawada, Noriaki, Fujitomo, Takashi, Fujii, Etsuko, Kato, Atsuhiko, Tsunoda, Hiroyuki
+================================================================================
+Title: UEG Week 2014 Oral Presentations
+Abstract: N/A
+Publication Year: 2014
+Publication Name: United European Gastroenterology Journal
+Authors: 
+================================================================================
+Title: Relationship of Signaling Pathways between RKIP Expression and the Inhibition of EMT-Inducing Transcription Factors SNAIL1/2, TWIST1/2 and ZEB1/2
+Abstract: Cancer is a deadly disease if it is not treated early with various conventional therapies that include surgery, radiation, chemotherapy and immunotherapy. These treatments manage a large percentage of patients with various cancer types. Normally, we do not develop cancer due to an inherent immune mechanism that is able to suppress its development. However, cancer can also develop means to counter the suppression mechanisms to grow and survive. While the suppressive mechanism is normally dominant in most humans, it also fails in many instances, allowing the cancer to grow and resist treatments. Accordingly, if one is able to use agents that can augment the suppressive mechanisms in cancer, it may result in the elimination of the tumor. In this study, we have addressed factors that support tumor growth and suggested approaches to target these factors that can lead to the destruction of the tumor. Untreated primary carcinomas often lead to progression, invasion and metastasis, a process that involves the epithelial-to-mesenchymal transition (EMT). Several transcription factors (TFs) mediate the development of EMT, including SNAIL1/SNAIL2, TWIST1/TWIST2 and ZEB1/ZEB2, which are overexpressed in various carcinomas along with the under expression of the metastasis suppressor Raf Kinase Inhibitor Protein (RKIP). Overexpression of RKIP inhibits EMT and the above associated TFs. We, therefore, hypothesized that there are inhibitory cross-talk signaling pathways between RKIP and these TFs. Accordingly, we analyzed the various properties and biomarkers associated with the epithelial and mesenchymal tissues and the various molecular signaling pathways that trigger the EMT phenotype such as the TGF-β, the RTK and the Wnt pathways. We also presented the various functions and the transcriptional, post-transcriptional and epigenetic regulations for the expression of each of the EMT TFs. Likewise, we describe the transcriptional, post-transcriptional and epigenetic regulations of RKIP expression. Various signaling pathways mediated by RKIP, including the Raf/MEK/ERK pathway, inhibit the TFs associated with EMT and the stabilization of epithelial E-Cadherin expression. The inverse relationship between RKIP and the TF expressions and the cross-talks were further analyzed by bioinformatic analysis. High mRNA levels of RKIP correlated negatively with those of SNAIL1, SNAIL2, TWIST1, TWIST2, ZEB1, and ZEB2 in several but not all carcinomas. However, in these carcinomas, high levels of RKIP were associated with good prognosis, whereas high levels of the above transcription factors were associated with poor prognosis. Based on the inverse relationship between RKIP and EMT TFs, it is postulated that the expression level of RKIP in various carcinomas is clinically relevant as both a prognostic and diagnostic biomarker. In addition, targeting RKIP induction by agonists, gene therapy and immunotherapy will result not only in the inhibition of EMT and metastases in carcinomas, but also in the inhibition of tumor growth and reversal of resistance to various therapeutic strategies. However, such targeting strategies must be better investigated as a result of tumor heterogeneities and inherent resistance and should be better adapted as personalized medicine. 
+Publication Year: 2024
+Publication Name: Cancers
+Authors: Bustamante, Andrew, Baritaki, Stavroula, Zaravinos, Apostolos, Bonavida, Benjamin
+================================================================================
+Title: Current Pathology Model of Pancreatic Cancer
+Abstract: Pancreatic cancer is a very aggressive and lethal malignant neoplasm with overall 5-year survival rates below 10%. The field of pancreatic cancer research is rapidly evolving. Reports of newly revealed pathomechanisms of the nature of these tumors are published daily. Nevertheless, many aspects of a pathologic evaluation are still uncertain. It is crucial to be able to pull out practical information that impacts the diagnostic process, called a pathologic evaluation. In this review, we comprehensively summarize some of the recent papers from the pathologists’ and clinicians’ points of view. We specifically focus on pathology assessment and reporting, to make them meaningful for clinical and research purposes. Lastly, we highlight novel diagnostic and research approaches, point out some missing pieces in the field, and suggest further study directions. Pancreatic cancer (PC) is one of the most aggressive and lethal malignant neoplasms, ranking in seventh place in the world in terms of the incidence of death, with overall 5-year survival rates still below 10%. The knowledge about PC pathomechanisms is rapidly expanding. Daily reports reveal new aspects of tumor biology, including its molecular and morphological heterogeneity, explain complicated “cross-talk” that happens between the cancer cells and tumor stroma, or the nature of the PC-associated neural remodeling (PANR). Staying up-to-date is hard and crucial at the same time. In this review, we are focusing on a comprehensive summary of PC aspects that are important in pathologic reporting, impact patients’ outcomes, and bring meaningful information for clinicians. Finally, we show promising new trends in diagnostic technologies that might bring a difference in PC early diagnosis.
+Publication Year: 2022
+Publication Name: Cancers
+Authors: Szymoński, Krzysztof, Milian-Ciesielska, Katarzyna, Lipiec, Ewelina, Adamek, Dariusz
+================================================================================
+Title: CAR-T treatment for cancer: prospects and challenges
+Abstract: Chimeric antigen receptor (CAR-T) cell therapy has been widely used in hematological malignancies and has achieved remarkable results, but its long-term efficacy in solid tumors is greatly limited by factors such as the tumor microenvironment (TME). In this paper, we discuss the latest research and future views on CAR-T cell cancer immunotherapy, compare the different characteristics of traditional immunotherapy and CAR-T cell therapy, introduce the latest progress in CAR-T cell immunotherapy, and analyze the obstacles that hinder the efficacy of CAR-T cell therapy, including immunosuppressive factors, metabolic energy deficiency, and physical barriers. We then further discuss the latest therapeutic strategies to overcome these barriers, as well as management decisions regarding the possible safety issues of CAR-T cell therapy, to facilitate solutions to the limited use of CAR-T immunotherapy.
+Publication Year: 2023
+Publication Name: Frontiers in Oncology
+Authors: Chen, Ran, Chen, Lei, Wang, Chaoqun, Zhu, Hua, Gu, Lijuan, Li, Yuntao, Xiong, Xiaoxing, Chen, Gang, Jian, Zhihong
+================================================================================
+Title: The Role of Stellate Cells in Pancreatic Ductal Adenocarcinoma: Targeting Perspectives
+Abstract: Pancreatic ductal adenocarcinoma (PDAC) is a gastrointestinal malignancy with a dismal clinical outcome. Accumulating evidence suggests that activated pancreatic stellate cells (PSCs), the major producers of extracellular matrix (ECM), drive the severe stromal/desmoplastic reaction in PDAC. Furthermore, the crosstalk among PSCs, pancreatic cancer cells (PCCs) as well as other stroma cells can establish a growth-supportive tumor microenvironment (TME) of PDAC, thereby enhancing tumor growth, metastasis, and chemoresistance 
+Publication Year: 2021
+Publication Name: Frontiers in Oncology
+Authors: Wu, Yang, Zhang, Chun, Jiang, Kuirong, Werner, Jens, Bazhin, Alexandr V., D’Haese, Jan G.
+================================================================================
+Title: Role of Chemokines in the Biology of Cholangiocarcinoma
+Abstract: Cholangiocarcinoma (CCA), a heterogeneous tumor with poor prognosis, can arise at any level in the biliary tree. It may derive from epithelial cells in the biliary tracts and peribiliary glands and possibly from progenitor cells or even hepatocytes. Several risk factors are responsible for CCA onset, however an inflammatory milieu nearby the biliary tree represents the most common condition favoring CCA development. Chemokines play a key role in driving the immunological response upon liver injury and may sustain tumor initiation and development. Chemokine receptor-dependent pathways influence the interplay among various cellular components, resulting in remodeling of the hepatic microenvironment towards a pro-inflammatory, pro-fibrogenic, pro-angiogenic and pre-neoplastic setting. Moreover, once tumor develops, chemokine signaling may influence its progression. Here we review the role of chemokines in the regulation of CCA development and progression, and the modulation of angiogenesis, metastasis and immune control. The potential role of chemokines and their receptors as possible biomarkers and/or therapeutic targets for hepatobiliary cancer is also discussed.
+Publication Year: 2020
+Publication Name: Cancers
+Authors: Caligiuri, Alessandra, Pastore, Mirella, Lori, Giulia, Raggi, Chiara, Di Maira, Giovanni, Marra, Fabio, Gentilini, Alessandra
+================================================================================
+Title: UEG Week 2018 Oral Presentations
+Abstract: N/A
+Publication Year: 2018
+Publication Name: United European Gastroenterology Journal
+Authors: 
+================================================================================
+Title: UEG Week 2015 Poster Presentations
+Abstract: N/A
+Publication Year: 2015
+Publication Name: United European Gastroenterology Journal
+Authors: 
+================================================================================
+Title: ISEV2022 Abstract Book
+Abstract: N/A
+Publication Year: 2022
+Publication Name: Journal of Extracellular Vesicles
+Authors: 
+================================================================================
+Title: Abstract
+Abstract: N/A
+Publication Year: 2006
+Publication Name: HPB : The Official Journal of the International Hepato Pancreato Biliary Association
+Authors: 
+================================================================================
+Title: Drug Repurposing, an Attractive Strategy in Pancreatic Cancer Treatment: Preclinical and Clinical Updates
+Abstract: The purpose of this review is to provide an update on some of the most promising non-oncology drugs that are already approved and that could be useful also in the treatment of pancreatic cancer, one of the deadliest malignancies worldwide. Current chemotherapy options are unsatisfactory in this cancer and there is an urgent need for more effective and less toxic drugs to improve the dismal pancreatic cancer therapy. The use in cancer therapy of drugs approved for other indications (drug repurposing) is an attractive approach that has the potential to overcome several issues associated with de novo drug discovery, such as dose-finding and safety profiles, accelerating their clinical adoption. In this review, we report proposed mechanisms of action and biological targets of drugs that are candidates for repurposing in pancreatic cancer therapy, focusing on targets that appear to be relevant for their anticancer action. Finally, considering that cancer immunotherapy provides remarkable long-term remission in some responsive tumors and that this strategy is mostly ineffective in pancreatic cancer patients, we discuss recent developments regarding the ability of some repurposing drug candidates to activate anti-tumor immune response, which may be particularly relevant for their clinical effectiveness. Pancreatic cancer (PC) is one of the deadliest malignancies worldwide, since patients rarely display symptoms until an advanced and unresectable stage of the disease. Current chemotherapy options are unsatisfactory and there is an urgent need for more effective and less toxic drugs to improve the dismal PC therapy. Repurposing of non-oncology drugs in PC treatment represents a very promising therapeutic option and different compounds are currently being considered as candidates for repurposing in the treatment of this tumor. In this review, we provide an update on some of the most promising FDA-approved, non-oncology, repurposed drug candidates that show prominent clinical and preclinical data in pancreatic cancer. We also focus on proposed mechanisms of action and known molecular targets that they modulate in PC. Furthermore, we provide an explorative bioinformatic analysis, which suggests that some of the PC repurposed drug candidates have additional, unexplored, oncology-relevant targets. Finally, we discuss recent developments regarding the immunomodulatory role displayed by some of these drugs, which may expand their potential application in synergy with approved anticancer immunomodulatory agents that are mostly ineffective as single agents in PC.
+Publication Year: 2021
+Publication Name: Cancers
+Authors: De Lellis, Laura, Veschi, Serena, Tinari, Nicola, Mokini, Zhirajr, Carradori, Simone, Brocco, Davide, Florio, Rosalba, Grassadonia, Antonino, Cama, Alessandro
+================================================================================
+Title: Plasticity and Tumor Microenvironment in Pancreatic Cancer: Genetic, Metabolic, and Immune Perspectives
+Abstract: Cancer initiation and progression are controlled not only by intrinsic factors, such as genetic mutations and mesenchymal trait acquisition, but also by dynamic spatiotemporal shifts within the tumor microenvironment. These elements induce plasticity, and enhance invasiveness, metastasis, and treatment resistance, while promoting immune evasion through the reprogramming of the immune microenvironment. However, the molecular mechanisms driving this reprogramming remain unclear. In this review, we summarize the recent pivotal findings on pancreatic cancer, which is a highly malignant disease, and overview the roles of plasticity, metabolic reprogramming, and the creation of an immunosuppressive microenvironment in disease progression. We also present our research on two crucial signaling pathways, i.e., the dynamic interplay between mutational load and the tumor microenvironment, and the acquisition of cancer plasticity via inflammatory responses and metabolic reprogramming. A comprehensive understanding of these processes is expected to transform therapeutic strategies and improve the outcomes of pancreatic cancer patients.
+Publication Year: 2024
+Publication Name: Cancers
+Authors: Hashimoto, Ari, Hashimoto, Shigeru
+================================================================================
+Title: ROBO2 is a stroma suppressor gene in the pancreas and acts via TGF-β signalling
+Abstract: Whereas genomic aberrations in the SLIT-ROBO pathway are frequent in pancreatic ductal adenocarcinoma (PDAC), their function in the pancreas is unclear. Here we report that in pancreatitis and PDAC mouse models, epithelial Robo2 expression is lost while Robo1 expression becomes most prominent in the stroma. Cell cultures of mice with loss of epithelial Robo2 (Pdx1
+Publication Year: 2018
+Publication Name: Nature Communications
+Authors: Pinho, Andreia V., Van Bulck, Mathias, Chantrill, Lorraine, Arshi, Mehreen, Sklyarova, Tatyana, Herrmann, David, Vennin, Claire, Gallego-Ortega, David, Mawson, Amanda, Giry-Laterriere, Marc, Magenau, Astrid, Leuckx, Gunther, Baeyens, Luc, Gill, Anthony J., Phillips, Phoebe, Timpson, Paul, Biankin, Andrew V., Wu, Jianmin, Rooman, Ilse
+================================================================================
+Title: UEG Week 2018 Poster Presentations
+Abstract: N/A
+Publication Year: 2018
+Publication Name: United European Gastroenterology Journal
+Authors: 
+================================================================================
+Title: Translationally controlled tumor protein: the mediator promoting cancer invasion and migration and its potential clinical prospects
+Abstract: Translationally controlled tumor protein (TCTP) is a highly conserved multifunctional protein localized in the cytoplasm and nucleus of eukaryotic cells. It is secreted through exosomes and its degradation is associated with the ubiquitin-proteasome system (UPS), heat shock protein 27 (Hsp27), and chaperone-mediated autophagy (CMA). Its structure contains three α‍-helices and eleven β‍-strands, and features a helical hairpin as its hallmark. TCTP shows a remarkable similarity to the methionine-R-sulfoxide reductase B (MsrB) and mammalian suppressor of Sec4 (Mss4/Dss4) protein families, which exerts guanine nucleotide exchange factor (GEF) activity on small guanosine triphosphatase (GTPase) proteins, suggesting that some functions of TCTP may at least depend on its GEF action. Indeed, TCTP exerts GEF activity on Ras homolog enriched in brain (Rheb) to boost the growth and proliferation of 
+Publication Year: 2022
+Publication Name: Journal of Zhejiang University. Science. B
+Authors: GAO, Junying, MA, Yan, YANG, Guiwen, LI, Guorong
+================================================================================
+Title: A combination therapy of bortezomib, CXCR4 inhibitor, and checkpoint inhibitor is effective in cholangiocarcinoma 
+Abstract: Cholangiocarcinoma (CCA) is a biliary tree malignancy with a dismal prognosis. Tumor microenvironment (TME), including cancer-associated fibroblasts (CAFs) has been shown to be involved in drug resistance. To model the interactions between cancer cells and the TME, we established CCA complex patient-derived organoids (cPDOs) to include epithelial PDO (ePDOs) and matched CAFs. While ePDOs were sensitive to bortezomib, we found the matched cPDOs were relatively resistant. Mechanistically, this resistance was correlated with over-expression of CXCR4 in the CAF component of cPDOs. In accord with the role of CXCR4 in the resistance to bortezomib, we found that a CXCR4 inhibitor can reverse the resistance to bortezomib 
+Publication Year: 2023
+Publication Name: iScience
+Authors: Li, Ling, Zhou, Yang, Zhang, Yicheng, Hu, Haijie, Mao, Hai-Quan, Selaru, Florin M.
+================================================================================
+Title: The role and therapeutic targeting of the CCL2/CCR2 signaling axis in inflammatory and fibrotic diseases
+Abstract: CCL2, a pivotal cytokine within the chemokine family, functions by binding to its receptor CCR2. The CCL2/CCR2 signaling pathway plays a crucial role in the development of fibrosis across multiple organ systems by modulating the recruitment and activation of immune cells, which in turn influences the progression of fibrotic diseases in the liver, intestines, pancreas, heart, lungs, kidneys, and other organs. This paper introduces the biological functions of CCL2 and CCR2, highlighting their similarities and differences concerning fibrotic disorders in various organ systems, and reviews recent progress in the diagnosis and treatment of clinical fibrotic diseases linked to the CCL2/CCR2 signaling pathway. Additionally, further in-depth research is needed to explore the clinical significance of the CCL2/CCR2 axis in fibrotic conditions affecting different organs.
+Publication Year: 2025
+Publication Name: Frontiers in Immunology
+Authors: Guo, Shan, Zhang, Qi, Guo, Yingjie, Yin, Xiaoyan, Zhang, Peng, Mao, Tao, Tian, Zibin, Li, Xiaoyu
+================================================================================
+Title: The reciprocal regulation between host tissue and immune cells in pancreatic ductal adenocarcinoma: new insights and therapeutic implications
+Abstract: Pancreatic ductal adenocarcinoma (PDAC) is the fourth leading cause of cancer-related death and is one of the most difficult-to-treat cancers. Surgical resection and adjuvant therapy have limited effects on the overall survival of PDAC patients. PDAC exhibits an immunosuppressive microenvironment, the immune response predicts survival, and activation of immune system has the potential to produce an efficacious PDAC therapy. However, chimeric antigen receptor T (CAR-T) cell immunotherapy and immune checkpoint blockade (ICB), which have produced unprecedented clinical benefits in a variety of different cancers, produce promising results in only some highly selected patients with PDAC. This lack of efficacy may be because existing immunotherapies mainly target the interactions between cancer cells and immune cells. However, PDAC is characterized by an abundant tumor stroma that includes a heterogeneous mixture of immune cells, fibroblasts, endothelial cells, neurons and some molecular events. Immune cells engage in extensive and dynamic crosstalk with stromal components in the tumor tissue in addition to tumor cells, which subsequently impacts tumor suppression or promotion to a large extent. Therefore, exploration of the interactions between the stroma and immune cells may offer new therapeutic opportunities for PDAC. In this review, we discuss how infiltrating immune cells influence PDAC development and explore the contributions of complex components to the immune landscape of tumor tissue. The roles of stromal constituents in immune modulation are emphasized. We also predict potential therapeutic strategies to target signals in the immune network in the abundant stromal microenvironment of PDAC.
+Publication Year: 2019
+Publication Name: Molecular Cancer
+Authors: Liu, Xiaomeng, Xu, Jin, Zhang, Bo, Liu, Jiang, Liang, Chen, Meng, Qingcai, Hua, Jie, Yu, Xianjun, Shi, Si
+================================================================================
+Title: UEG Week 2014 Poster Presentations
+Abstract: N/A
+Publication Year: 2014
+Publication Name: United European Gastroenterology Journal
+Authors: 
+================================================================================
+Title: Update on current pancreatic treatments: from molecular pathways to treatment
+Abstract: Pancreatic cancer is still diagnosed at a late stage although we have novel diagnostic tools. Pancreatic cancer chemotherapy treatment resistance is observed and therefore novel treatments are in need. Anti-cancer stem cell therapy, combination of chemotherapy and/or radiotherapy with immunotherapy, proteins/enzymes and gene therapy are currently under evaluation. Targeted treatment with tyrosine kinase inhibitors is also administered and novel inhibitors are also under evaluation. In the current review we present recent data from our search within the year 2018.
+Publication Year: 2019
+Publication Name: Journal of Cancer
+Authors: Sapalidis, Konstantinos, Kosmidis, Christoforos, Funtanidou, Varvara, Katsaounis, Athanasios, Barmpas, Amastasios, Koimtzis, Georgios, Mantalobas, Stylianos, Alexandrou, Vyron, Aidoni, Zoi, Koulouris, Charilaos, Pavlidis, Efstathios, Giannakidis, Dimitrios, Surlin, Valeriu, Pantea, Stelian, Strambu, Victor, Constantina, Rogoveanu Otilia, Amaniti, Aikaterini, Zarogoulidis, Paul, Mogoantă, Stelian, Kesisoglou, Isaak, Sardeli, Chrysanthi
+================================================================================
+Title: Mechanisms of obesity- and diabetes mellitus-related pancreatic carcinogenesis: a comprehensive and systematic review
+Abstract: Research on obesity- and diabetes mellitus (DM)-related carcinogenesis has expanded exponentially since these two diseases were recognized as important risk factors for cancers. The growing interest in this area is prominently actuated by the increasing obesity and DM prevalence, which is partially responsible for the slight but constant increase in pancreatic cancer (PC) occurrence. PC is a highly lethal malignancy characterized by its insidious symptoms, delayed diagnosis, and devastating prognosis. The intricate process of obesity and DM promoting pancreatic carcinogenesis involves their local impact on the pancreas and concurrent whole-body systemic changes that are suitable for cancer initiation. The main mechanisms involved in this process include the excessive accumulation of various nutrients and metabolites promoting carcinogenesis directly while also aggravating mutagenic and carcinogenic metabolic disorders by affecting multiple pathways. Detrimental alterations in gastrointestinal and sex hormone levels and microbiome dysfunction further compromise immunometabolic regulation and contribute to the establishment of an immunosuppressive tumor microenvironment (TME) for carcinogenesis, which can be exacerbated by several crucial pathophysiological processes and TME components, such as autophagy, endoplasmic reticulum stress, oxidative stress, epithelial-mesenchymal transition, and exosome secretion. This review provides a comprehensive and critical analysis of the immunometabolic mechanisms of obesity- and DM-related pancreatic carcinogenesis and dissects how metabolic disorders impair anticancer immunity and influence pathophysiological processes to favor cancer initiation.
+Publication Year: 2023
+Publication Name: Signal Transduction and Targeted Therapy
+Authors: Ruze, Rexiati, Song, Jianlu, Yin, Xinpeng, Chen, Yuan, Xu, Ruiyuan, Wang, Chengcheng, Zhao, Yupei
+================================================================================
+Title: Focus on Pancreatic Cancer Microenvironment
+Abstract: Pancreatic ductal adenocarcinoma remains one of the most lethal solid tumors due to its local aggressiveness and metastatic potential, with a 5-year survival rate of only 13%. A robust connection between pancreatic cancer microenvironment and tumor progression exists, as well as resistance to current anticancer treatments. Pancreatic cancer has a complex tumor microenvironment, characterized by an intricate crosstalk between cancer cells, cancer-associated fibroblasts and immune cells. The complex composition of the tumor microenvironment is also reflected in the diversity of its acellular components, such as the extracellular matrix, cytokines, growth factors and secreted ligands involved in signaling pathways. Desmoplasia, the hallmark of the pancreatic cancer microenvironment, contributes by creating a dense and hypoxic environment that promotes further tumorigenesis, provides innate systemic resistance and suppresses anti-tumor immune invasion. We discuss the complex crosstalk among tumor microenvironment components and explore therapeutic strategies and opportunities in pancreatic cancer research. Better understanding of the tumor microenvironment and its influence on pancreatic cancer progression could lead to potential novel therapeutic options, such as integration of immunotherapy and cytokine-targeted treatments.
+Publication Year: 2024
+Publication Name: Current Oncology
+Authors: Pratticò, Fabiana, Garajová, Ingrid
+================================================================================
+Title: Metastatic disease in head & neck oncology
+Abstract: The head and neck district represents one of the most frequent sites of cancer, and the percentage of metastases is very high in both loco-regional and distant areas. Prognosis refers to several factors: a) stage of disease; b) loco-regional relapses; c) distant metastasis. At diagnosis, distant metastases of head and neck cancers are present in about 10% of cases with an additional 20-30% developing metastases during the course of their disease. Diagnosis of distant metastases is associated with unfavorable prognosis, with a median survival of about 10 months. The aim of the present review is to provide an update on distant metastasis in head and neck oncology. Recent achievements in molecular profiling, interaction between neoplastic tissue and the tumor microenvironment, oligometastatic disease concepts, and the role of immunotherapy have all deeply changed the therapeutic approach and disease control. Firstly, we approach topics such as natural history, epidemiology of distant metastases and relevant pathological and radiological aspects. Focus is then placed on the most relevant clinical aspects; particular attention is reserved to tumours with distant metastasis and positive for EBV and HPV, and the oligometastatic concept. A substantial part of the review is dedicated to different therapeutic approaches. We highlight the role of immunotherapy and the potential effects of innovative technologies. Lastly, we present ethical and clinical perspectives related to frailty in oncological patients and emerging difficulties in sustainable socio-economical governance.
+Publication Year: 2020
+Publication Name: Acta Otorhinolaryngologica Italica
+Authors: Pisani, Paolo, Airoldi, Mario, Allais, Anastasia, Aluffi Valletti, Paolo, Battista, Mariapina, Benazzo, Marco, Briatore, Roberto, Cacciola, Salvatore, Cocuzza, Salvatore, Colombo, Andrea, Conti, Bice, Costanzo, Alberto, della Vecchia, Laura, Denaro, Nerina, Fantozzi, Cesare, Galizia, Danilo, Garzaro, Massimiliano, Genta, Ida, Iasi, Gabriela Alejandra, Krengli, Marco, Landolfo, Vincenzo, Lanza, Giovanni Vittorio, Magnano, Mauro, Mancuso, Maurizio, Maroldi, Roberto, Masini, Laura, Merlano, Marco Carlo, Piemonte, Marco, Pisani, Silvia, Prina-Mello, Adriele, Prioglio, Luca, Rugiu, Maria Gabriella, Scasso, Felice, Serra, Agostino, Valente, Guido, Zannetti, Micol, Zigliani, Angelo
+================================================================================
+Title: UEG Week 2019 Poster Presentations
+Abstract: N/A
+Publication Year: 2019
+Publication Name: United European Gastroenterology Journal
+Authors: 
+================================================================================
